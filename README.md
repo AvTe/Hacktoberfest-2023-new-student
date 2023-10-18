@@ -28,7 +28,3 @@ You can contribute by fixing bugs, improving documentation, adding new features,
 
 Join us in this incredible learning journey! Let's make Hacktoberfest 2023 an unforgettable experience for new students.
 
-**Happy Hacking!**
-
----
-Feel free to customize this description to match your specific project's goals and guidelines. Good luck with your Hacktoberfest event!
